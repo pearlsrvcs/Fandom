@@ -10,13 +10,13 @@ It is not a requirement to add authentication or security to the app.
 It is not a requirement to persist information between app sessions.
 
 In order to demo this application, you may do either of the following:
-1) Download from github @ https://github.com/pearlsrvcs/fandom
+1) Download from github @ https://github.com/pearlsrvcs/Fandom
 2) Assuming that you have node.js install, you should be able to change into the working directory and run "npm install"
 3) Next, in order to run the app from Windows, type "react-native run-android"
 4) In order to run the app from your Mac, type "react-native run-ios"
 
 or assuming that you have java jdk installed, you can use the following commands to install on your android device
-1) Download from github @ https://github.com/pearlsrvcs/fandom
+1) Download from github @ https://github.com/pearlsrvcs/Fandom
 2) Change into the fandom directory
 3) Change into the release android/app/release directory
 4) Type "adb install Fandom.apk"
